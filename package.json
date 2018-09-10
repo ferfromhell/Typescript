@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compile": "tsc ts/greeter.ts --outdir ./js -w ./ts/greeter.ts"
+    "compile": "tsc ts/classes.ts --outdir ./js -w ./ts/classes.ts"
   },
   "keywords": [],
   "author": "",
